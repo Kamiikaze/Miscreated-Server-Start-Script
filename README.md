@@ -10,9 +10,9 @@
   
   <img alt="downloads-total" src="https://img.shields.io/github/downloads/Kamiikaze/Steam-Server-Start-Scripts/total"/>
   
-  <img alt="repo-size" src="https://img.shields.io/github/repo-size/Kamiikaze/Steam-Server-Start-Scripts"/>
+  <img alt="repo-size" src="https://img.shields.io/github/languages/code-size/Kamiikaze/Steam-Server-Start-Scripts"/>
 
-  <img alt="release-version" src="https://img.shields.io/github/v/release/Kamiikaze/steam-server-start-scripts">
+  <img alt="release-version" src="https://img.shields.io/github/v/release/Kamiikaze/Steam-Server-Start-Scripts">
 
 </p>
 
@@ -22,7 +22,7 @@
   
   <img alt="ask-me" src="https://img.shields.io/badge/Ask%20me-anything-56BEB8.svg"/>
 
-  <img alt="license" src="https://img.shields.io/github/license/Kamiikaze/steam-server-start-scripts?color=56BEB8">
+  <img alt="license" src="https://img.shields.io/github/license/Kamiikaze/Steam-Server-Start-Scripts?color=56BEB8">
 </p>
 
 <!-- Status -->
